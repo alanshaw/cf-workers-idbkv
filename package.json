@@ -1,6 +1,6 @@
 {
   "name": "cf-workers-idbkv",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "IndexedDB (IDB) backed Cloudflare workers KV store for testing.",
   "main": "dist/IDBKV.js",
   "type": "module",
